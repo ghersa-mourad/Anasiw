@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="19%p"
+    android:horizontalGap="1px"
+    android:verticalGap="1px"
+    android:keyHeight="@dimen/key_height"
+    >
+    <Row  android:keyWidth="9.8%p" android:rowEdgeFlags="top">
+        <Key android:codes="49" android:keyLabel="1" android:keyEdgeFlags="left"/>
+        <Key android:codes="50" android:keyLabel="2"/>
+        <Key android:codes="51" android:keyLabel="3"/>
+        <Key android:codes="52" android:keyLabel="4"/>
+        <Key android:codes="53" android:keyLabel="5"/>
+        <Key android:codes="54" android:keyLabel="6"/>
+        <Key android:codes="55" android:keyLabel="7"/>
+        <Key android:codes="56" android:keyLabel="8"/>
+        <Key android:codes="57" android:keyLabel="9"/>
+        <Key android:codes="48" android:keyLabel="0" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row android:keyWidth="9%p">
+        <Key android:codes="1590"  android:keyLabel="ض"  android:keyEdgeFlags="left"/>
+        <Key android:codes="1589" android:keyLabel="ص" />
+        <Key android:codes="1579" android:keyLabel="ث" />
+        <Key android:codes="1602" android:keyLabel="ق" />
+        <Key android:codes="1601" android:keyLabel="ف" />
+        <Key android:codes="1594" android:keyLabel="غ" />
+        <Key android:codes="1593" android:keyLabel="ع" />
+        <Key android:codes="1607" android:keyLabel="ه" />
+        <Key android:codes="1582" android:keyLabel="خ" />
+        <Key android:codes="1581" android:keyLabel="ح" />
+        <Key android:codes="1580"  android:keyLabel="ج" android:keyEdgeFlags="right" />
+    </Row>
+    <Row android:keyWidth="9%p">
+        <Key android:codes="1588"  android:keyLabel="ش" android:keyEdgeFlags="left"/>
+        <Key android:codes="1587" android:keyLabel="س" />
+        <Key android:codes="1610" android:keyLabel="ي" />
+        <Key android:codes="1576" android:keyLabel="ب" />
+        <Key android:codes="1604" android:keyLabel="ل" />
+        <Key android:codes="1575" android:keyLabel="ا" android:popupKeyboard="@xml/arabe_alif_popup" />
+        <Key android:codes="1578" android:keyLabel="ت" />
+        <Key android:codes="1606" android:keyLabel="ن" />
+        <Key android:codes="1605" android:keyLabel="م" />
+        <Key android:codes="1603" android:keyLabel="ك" />
+        <Key android:codes="1731" android:keyLabel="ۃ" android:keyEdgeFlags="right" />
+    </Row>
+    <Row android:keyWidth="9.6%p">
+        <Key android:codes="1569" android:keyLabel="ء" />
+        <Key android:codes="1592" android:keyLabel="ظ" />
+        <Key android:codes="1591" android:keyLabel="ط" />
+        <Key android:codes="1586" android:keyLabel="ز" />
+        <Key android:codes="1583" android:keyLabel="د" />
+        <Key android:codes="1584" android:keyLabel="ذ" />
+        <Key android:codes="1585" android:keyLabel="ر" />
+        <Key android:codes="1608" android:keyLabel="و" />
+        <Key android:codes="8216" android:keyLabel="‘" />
+        <Key android:keyWidth="12.0%p" android:codes="-5" android:keyEdgeFlags="right" android:isModifier="true" android:isRepeatable="true" android:keyIcon="@drawable/sym_keyboard_delete" />
+    </Row>
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:codes="-3" android:keyIcon="@drawable/sym_keyboard_done"
+            android:keyWidth="15%p" android:keyEdgeFlags="left"/>
+        <Key android:codes="-2" android:keyLabel="123" android:keyWidth="10%p"/>
+        <Key android:codes="-101" android:keyIcon="@drawable/sym_keyboard_language_switch" android:keyWidth="10%p"/>
+        <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space"
+            android:keyWidth="30%p" android:isRepeatable="true"/>
+        <Key android:codes="46,44" android:keyLabel=". ,"
+            android:keyWidth="15%p"/>
+        <Key android:codes="10" android:keyIcon="@drawable/sym_keyboard_return"
+            android:keyWidth="20%p" android:keyEdgeFlags="right"/>
+    </Row>
+</Keyboard>

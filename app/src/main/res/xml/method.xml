@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android">
+    <subtype
+        android:icon="@drawable/ic_subtype_keyboard_ber"
+        android:label="@string/subtype_ber"
+        android:imeSubtypeLocale="zz"
+        android:imeSubtypeMode="keyboard" />
+</input-method>
