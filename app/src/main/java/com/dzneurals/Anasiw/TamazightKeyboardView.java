@@ -1,11 +1,8 @@
-package com.dzneurals.tamazightboard;
+package com.dzneurals.Anasiw;
 
 import android.content.Context;
-import android.inputmethodservice.Keyboard;
-import android.inputmethodservice.Keyboard.Key;
 import android.inputmethodservice.KeyboardView;
 import android.util.AttributeSet;
-import android.view.inputmethod.InputMethodSubtype;
 
 public class TamazightKeyboardView extends KeyboardView {
     static final int KEYCODE_OPTIONS = -100;

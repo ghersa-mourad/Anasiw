@@ -1,14 +1,7 @@
-package com.dzneurals.tamazightboard;
+package com.dzneurals.Anasiw;
 
 import android.content.Context;
-import java.lang.Object;
-import android.content.Context;
-import android.content.ContextWrapper ;
-import android.app.Service;
 import android.inputmethodservice.*;
-import android.view.*;
-import android.view.inputmethod.*;
-import android.media.*;
 
 public class KeyboardsDefinitions {
 

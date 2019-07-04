@@ -1,4 +1,4 @@
-package com.dzneurals.tamazightboard;
+package com.dzneurals.Anasiw;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.dzneurals.tamazightboard;
+package com.dzneurals.Anasiw;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

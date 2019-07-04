@@ -1,8 +1,4 @@
-package com.dzneurals.tamazightboard;
- import java.lang.Object;
- import android.content.Context;
- import android.content.ContextWrapper ;
- import android.app.Service;
+package com.dzneurals.Anasiw;
  import android.inputmethodservice.*;
  import android.view.*;
  import android.view.inputmethod.*;

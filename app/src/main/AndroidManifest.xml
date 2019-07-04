@@ -1,12 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.dzneurals.tamazightboard">
+    package="com.dzneurals.Anasiw">
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_subtype_keyboard_ber"
+        android:icon="@drawable/logo"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/ic_subtype_keyboard_ber"
+        android:roundIcon="@drawable/logo"
         android:supportsRtl="true">
-        <service android:name=".SimpleIME"
+        <service android:name="com.dzneurals.Anasiw.SimpleIME"
             android:label="@string/simple_ime"
             android:permission="android.permission.BIND_INPUT_METHOD">
             <meta-data android:name="android.view.im" android:resource="@xml/method"/>
