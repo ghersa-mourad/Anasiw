@@ -1,0 +1,17 @@
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="9%p"
+    android:horizontalGap="1%p"
+    android:verticalGap="0.2%p"
+    android:keyHeight="7%p"
+    >
+    <Row android:rowEdgeFlags="top">
+        <Key android:codes="0671" android:keyLabel="ٱٰٰٰ" android:keyEdgeFlags="left" />
+        <Key android:codes="0672" android:keyLabel="ٲ" />
+        <Key android:codes="0673" android:keyLabel="ٳ" android:keyEdgeFlags="right" />
+    </Row>
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:codes="0675" android:keyLabel="ا" android:keyEdgeFlags="left" />
+        <Key android:codes="0622" android:keyLabel="آ" />
+        <Key android:codes="0623" android:keyLabel="أ" android:keyEdgeFlags="right" />
+    </Row>
+</Keyboard>

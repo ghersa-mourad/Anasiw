@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="9%p"
+    android:horizontalGap="1%p"
+    android:verticalGap="0.2%p"
+    android:keyHeight="7%p"
+    android:keyTextColor="@color/colorPrimaryDark"
+    android:keyBackground="@color/colorAccent"
+    >
+    <Row  android:rowEdgeFlags="top">
+        <Key android:codes="11585" android:keyLabel="ⵁ"/>
+        <Key android:codes="11586" android:keyLabel="ⵂ"/>
+    </Row>
+</Keyboard>

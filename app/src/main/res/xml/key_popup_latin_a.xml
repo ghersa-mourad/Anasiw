@@ -1,0 +1,13 @@
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="9%p"
+    android:horizontalGap="1%p"
+    android:verticalGap="0.2%p"
+    android:keyHeight="7%p"
+    >
+    <Row android:rowEdgeFlags="top">
+        <Key android:codes="224" android:keyLabel="à" />
+        <Key android:codes="226" android:keyLabel="â" />
+        <Key android:codes="227" android:keyLabel="ã" />
+        <Key android:codes="228" android:keyLabel="ä"/>
+    </Row>
+</Keyboard>

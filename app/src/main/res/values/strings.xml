@@ -1,5 +1,7 @@
-﻿<resources>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
     <string name="app_name">Anasiw</string>
     <string name="simple_ime">Anasiw n tmazight</string>
     <string name="subtype_ber">Tamazight</string>
+    <string name="tif_for_z">ⵣ</string>
 </resources>
