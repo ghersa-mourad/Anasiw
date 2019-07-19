@@ -1,4 +1,4 @@
-# Anasiw : A keyboard for amazigh people.
+# Anasiw (ⴰⵏⴰⵙⵉⵡ) : A keyboard for amazigh people.
 We believe that Tamazight is an amazing language that deserves to be the main language for us. to make it so we need to be able to share knowledge and exchange in Tamazight.
 For that we build this keyboard that combines the Four keyboard an Amazigh need in his daily writings. we will work together to make Four become two.
 
