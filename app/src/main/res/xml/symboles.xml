@@ -1,8 +1,8 @@
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
-    android:keyWidth="8.9%p"
-    android:horizontalGap="1%p"
-    android:verticalGap="0.2%p"
-    android:keyHeight="7%p"
+    android:keyWidth="@dimen/keyWidth"
+    android:horizontalGap="@dimen/keysHorizontalGap"
+    android:verticalGap="@dimen/keysVerticalGap"
+    android:keyHeight="@dimen/keyHeight"
     >
     <Row android:keyHeight="6%p" android:rowEdgeFlags="top">
         <Key android:codes="49" android:keyLabel="1"  android:keyEdgeFlags="left" />
@@ -53,12 +53,12 @@
                 android:keyWidth="15%p" android:keyEdgeFlags="right"
                 android:isRepeatable="true"/>
         </Row>
-        <Row  android:rowEdgeFlags="bottom">
+        <Row  android:rowEdgeFlags="bottom"  android:keyHeight="8%">
             <Key android:codes="-2" android:keyLabel="ABC" android:keyWidth="10%p" android:keyEdgeFlags="left" />
             <Key android:codes="-101" android:keyIcon="@drawable/sym_keyboard_language_switch" android:keyWidth="10%p" />
             <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space" android:keyWidth="41%p" android:isRepeatable="true" />
             <Key android:codes="46" android:keyLabel="."/>
             <Key android:codes="44" android:keyLabel=","/>
-            <Key android:codes="10" android:keyIcon="@drawable/sym_keyboard_return" android:keyWidth="14.5%p" android:keyEdgeFlags="right" />
+            <Key android:codes="-4" android:keyIcon="@drawable/sym_keyboard_return" android:keyWidth="14.5%p" android:keyEdgeFlags="right" />
         </Row>
     </Keyboard>

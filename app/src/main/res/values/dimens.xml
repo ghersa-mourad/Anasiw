@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="key_height">0.33500004in</dimen>
-    <dimen name="candidate_font_height">16sp</dimen>
-    <dimen name="candidate_vertical_padding">6sp</dimen>
+    <dimen name="keyWidth">8.9%p</dimen>
+    <dimen name="keyHeight">6%p</dimen>
+    <dimen name="keyPreviewWidth">5px</dimen>
+    <dimen name="keyPreviewHeight">6%p</dimen>
+    <dimen name="keysVerticalGap">1.5%p</dimen>
+    <dimen name="keysHorizontalGap">1%p</dimen>
 </resources>

@@ -1,3 +1,15 @@
+/*
+
+
+
+
+
+ */
+
+
+
+
+
 package com.dzneurals.Anasiw;
  import android.inputmethodservice.*;
  import android.view.*;
@@ -20,6 +32,7 @@ public class SimpleIME extends InputMethodService implements KeyboardView.OnKeyb
         kv.setKeyboard(keyboardDefinitions.qwertyKeyboard);
         currentKeyborad = keyboardDefinitions.qwertyKeyboard;
         kv.setOnKeyboardActionListener(this);
+        kv.setPreviewEnabled(false);
         return kv;
     }
 
