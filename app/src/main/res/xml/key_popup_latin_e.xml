@@ -5,9 +5,9 @@
     android:keyHeight="7%p"
     >
     <Row android:rowEdgeFlags="top">
-        <Key android:codes="233" android:keyLabel="éٰٰٰ" />
-        <Key android:codes="0350" android:keyLabel="è" />
-        <Key android:codes="0352" android:keyLabel="ê" />
+        <Key android:codes="233" android:keyLabel="é" />
+        <Key android:codes="232" android:keyLabel="è" />
+        <Key android:codes="234" android:keyLabel="ê" />
         <Key android:codes="235" android:keyLabel="ë"/>
     </Row>
 </Keyboard>
