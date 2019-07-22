@@ -50,7 +50,7 @@
         <Key android:codes="1572" android:keyLabel="ؤ" />
         <Key android:codes="1585" android:keyLabel="ر" />
         <Key android:codes="1609" android:keyLabel="ى" android:popupKeyboard="@xml/key_popup_arabic_alef_maksura" />
-        <Key android:codes="1731" android:keyLabel="ۃ"  />
+        <Key android:codes="1577" android:keyLabel="ۃ"  />
         <Key android:codes="1608" android:keyLabel="و" />
         <Key android:codes="1586" android:keyLabel="ز" />
         <Key android:codes="1592" android:keyLabel="ظ" />
