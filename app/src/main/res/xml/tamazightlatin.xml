@@ -34,7 +34,7 @@
         <Key android:codes="115" android:keyLabel="s" android:popupKeyboard="@xml/key_popup_kblatin_yas"/>
         <Key android:codes="100" android:keyLabel="d" android:popupKeyboard="@xml/key_popup_kblatin_yad"/>
         <Key android:codes="102" android:keyLabel="f"/>
-        <Key android:codes="103" android:keyLabel="g"/>
+        <Key android:codes="103" android:keyLabel="g" android:popupKeyboard="@xml/key_popup_kblatin_yag" />
         <Key android:codes="104" android:keyLabel="h" android:popupKeyboard="@xml/key_popup_kblatin_h"/>
         <Key android:codes="106" android:keyLabel="j"/>
         <Key android:codes="107" android:keyLabel="k"/>
