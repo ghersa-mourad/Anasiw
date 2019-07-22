@@ -1,4 +1,5 @@
-# Anasiw (ⴰⵏⴰⵙⵉⵡ) : Anas iw ugdud amaziɣ, nukni nefles belli tutlayt tamaziɣt d tin ig llan d tasazlalt tuklal at ili d tamezwarut garaneɣ.
+# Anasiw (ⴰⵏⴰⵙⵉⵡ) : Anas iw ugdud amaziɣ
+nukni nefles belli tutlayt tamaziɣt d tin ig llan d tasazlalt tuklal at ili d tamezwarut garaneɣ.
 ihi nukni nuser an msarḍal garaneɣ tamusni uk an msarḍal awalen n tmaziɣt.
 ɣaf waya nukni n suli-d annas aggi ig zdin ger n wukuẓ (4) n wannasen ig tiḥwiǧ umaziɣ di tira ines.. ihi an qdec lwaḥid iw akken an-r ukuẓ di ssin kan.
 # Tufuwin :
@@ -11,7 +12,7 @@ ihi nukni nuser an msarḍal garaneɣ tamusni uk an msarḍal awalen n tmaziɣt.
 - Anasiw nunfas teldi mecka nerra azal i-ynegmaḍnik , Anas ig zemmen yezmer ad iceggaε yal taɣawsa i tettaruḍ, dɣa leqdicenneɣ akka ig ga iw akken an sali tutlayt n tmurteneɣ [[TAMAZΓA]] mi-s nunef yeldi.
 akken id nefser tadugamt aggi s ddaw n turagt GPLv3.0 .
 keč diɣen d ilelli iw: allus n ubeṭṭu/ aznaz/ asenfel niɣ at igeḍ ayen i tuyreḍ maca ak izuccel ad fesreḍ ayen uk it snefleḍ uk d wayen id rniḍ ar wAnasiw am akken nukni nuyer tirnin-inek uk d usenfel inek ar turagtenneɣ diɣen ansuf yessen.
-# Feedback :
+
 cegεed Feedback-ik ar dzneeurals@gmail.com
 
 # En
